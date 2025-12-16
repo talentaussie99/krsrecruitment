@@ -5,14 +5,14 @@ import { JobPosition } from '../types';
 const jobs: JobPosition[] = [
   { 
     title: "Data Support & Information Entry", 
-    location: "Sydney & Perth, AU", 
-    type: "Full-time",
+    location: "Sydney, AU", 
+    type: "Full-time / Part-time • Remote / On-site",
     applyUrl: "https://form.jotform.com/hrtalentaussie/krs-form-application"
   },
   { 
     title: "Data Processor & HR Analytics", 
     location: "Melbourne & Brisbane, AU", 
-    type: "Full-time / Contract",
+    type: "Full-time / Part-time • Remote / On-site",
     applyUrl: "https://form.jotform.com/hrtalentaussie/krs-form-recruitment"
   },
 ];
