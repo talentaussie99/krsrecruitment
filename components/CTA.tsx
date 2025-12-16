@@ -16,12 +16,7 @@ const CTA: React.FC = () => {
           Take the next step towards a professional career in Australia. 
           Our team is ready to assist you.
         </p>
-        <button 
-          onClick={handleApply}
-          className="bg-krs-accent text-krs-blue px-10 py-4 rounded-md font-bold text-lg hover:bg-yellow-400 transition-all shadow-lg transform hover:-translate-y-1"
-        >
-          Apply Now
-        </button>
+  
       </div>
     </section>
   );
